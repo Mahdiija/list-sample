@@ -1,0 +1,42 @@
+[
+    {
+      "name": "hossein",
+      "age": 25,
+      "email": "hossein@gmail.com"
+    },
+    {
+      "name": "mahdi",
+      "age": 28,
+      "email": "mahdi@gmail.com"
+    },
+    {
+      "name": "hamid",
+      "age": 20,
+      "email": "hamid@gmail.com"
+    },
+    {
+      "name": "reza",
+      "age": 21,
+      "email": "reza@gmail.com"
+    },
+    {
+      "name": "rostam",
+      "age": 40,
+      "email": "rostam@gmail.com"
+    },
+    {
+      "name": "sohrab",
+      "age": 15,
+      "email": "sohrab@gmail.com"
+    },
+    {
+      "name": "SEYEDali",
+      "age": 63,
+      "email": "SEYEDali@gmail.com"
+    },
+    {
+      "name": "Ali",
+      "age": 30,
+      "email": "Ali@gmail.com"
+    }
+  ]
